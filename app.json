@@ -1,0 +1,12 @@
+{
+  "name": "randomSpot",
+  "displayName": "randomSpot",
+  "expo": {
+    "name": "randomSpot",
+    "slug": "randomSpot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
